@@ -7,21 +7,14 @@ Delhivery's data team is tasked with understanding and optimizing the vast amoun
 In this project, we dive deep into Delhivery's data engineering pipelines, working with a dataset that provides insights into trip creation times, route schedules, transportation types, trip details, and more. Our goal is to not only clean and process this data but also to derive meaningful insights and recommendations that can drive strategic decision-making and propel Delhivery towards even greater success in the dynamic logistics landscape.</pr>
 <br>
 
-<ul>
-    <li><strong>Yearly Financial Breakdown</strong>: Select a year to get a detailed breakdown of revenue, profit margins, and other metrics.</li>
-    <li><strong>Cash Flow Visualization</strong>: Dynamic forecasting features that allow users to view cash flow forecasts by operating activities, financing, investing, and revenue breakdown over the years.</li>
-    <li><strong>Expense Breakdown</strong>: Detailed analysis of operating expenses categorized by type to understand spending better.</li>
-    <li><strong>Balance Sheet Snapshot</strong>: Visualize current assets, current liabilities, and Net Working Equity (NWE) for a clear financial picture.</li>
-    <li><strong>Operational Efficiency Metrics</strong>: Track KPIs that measure how effectively an organization uses its resources like time, money, and manpower to produce goods or services. These metrics help businesses minimize waste, reduce costs, and improve productivity while maintaining quality.</li>
-</ul>
 <h3>Technologies and Strategies Used:</h3> 
  <ul>
-   <li><strong>Python:</strong>strong> Utilized for overall data analysis and manipulation.</li>
-   <li><strong>Numpy and Pandas:</li>strong> Employed for efficient data handling, cleaning, and preprocessing.</li>
-   <li><strong>Seaborn and Matplotlib.pyplot:</strong>strong> Used for data visualization to identify trends and patterns.</li>
+   <li><strong>Python:</strong> Utilized for overall data analysis and manipulation.</li>
+   <li><strong>Numpy and Pandas:<strong> Employed for efficient data handling, cleaning, and preprocessing.</li>
+   <li><strong>Seaborn and Matplotlib.pyplot:</strong> Used for data visualization to identify trends and patterns.</li>
    <li><strong>Statistical/Hypothesis Testing:</strong> Applied t-tests and chi-2 tests to validate insights and identify significant differences.</li>
-   <li><strong>Data Cleaning and Preprocessing:</strong>strong> Ensured data quality by handling missing values, outliers, and transforming raw data into a usable format.</li>
-   <li><strong>Feature Engineering:</strong>strong> Created new features to enhance model accuracy and provide deeper insights.</li>
+   <li><strong>Data Cleaning and Preprocessing:</strong> Ensured data quality by handling missing values, outliers, and transforming raw data into a usable format.</li>
+   <li><strong>Feature Engineering:</strong> Created new features to enhance model accuracy and provide deeper insights.</li>
      <li><strong>Encoding:</strong> Converted categorical data into numerical formats for analysis..</li>
      <li><strong>Outliers Handling using IQR Method:</strong> Identified and managed outliers to maintain data integrity and improve analysis accuracy.</li>
 </ul>
